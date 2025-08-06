@@ -16,8 +16,7 @@ function Navbar() {
 
 function App() {
   return (
-    <Router>
-      <Navbar />  
+    <Router>  
       <Routes>
         <Route path="/" element={<TodoApp />} />
         <Route path="/login" element={<Login />} />

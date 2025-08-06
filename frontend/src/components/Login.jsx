@@ -51,6 +51,13 @@ function Login() {
         >
           Login
         </button>
+        <button
+          type="button"
+          onClick={() => navigate("/signup")}
+          className="w-full mt-4 text-blue-600 hover:underline text-sm"
+        >
+          New user? Signup 
+        </button>
       </form>
     </div>
   );
