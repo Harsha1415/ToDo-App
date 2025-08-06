@@ -15,33 +15,7 @@ A simple Todo Application built using FastAPI (Backend) and React.js (Frontend) 
 
 ✅ FastAPI Swagger UI for API testing
 
-📂 Project Structure
-pgsql
-Copy
-Edit
-├── backend/
-│   ├── app/
-│   │   ├── __init__.py
-│   │   ├── main.py
-│   │   ├── models.py
-│   │   ├── schemas.py
-│   │   ├── database.py
-│   │   ├── auth.py
-│   │   ├── auth_routes.py
-│   │   └── todo_routes.py
-│   ├── alembic/
-│   └── requirements.txt
-├── frontend/
-│   ├── src/
-│   │   ├── api.js
-│   │   ├── App.jsx
-│   │   └── components/
-│   │       ├── Login.jsx
-│   │       ├── Signup.jsx
-│   │       └── TodoApp.jsx
-│   ├── public/
-│   └── package.json
-└── README.md
+
 
 🛠️ Tech Stack
 Backend: FastAPI, SQLAlchemy, PostgreSQL, JWT
