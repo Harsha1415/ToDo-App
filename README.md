@@ -83,6 +83,4 @@ A simple Todo Application built using **FastAPI (Backend)** and **React.js (Fron
 3. Manage Todos (Add, Update, Delete) — Token is sent in Authorization Header.
 4. Logout to clear token and navigate back to Login.
 
----
 
-## 📂 Project Structure
